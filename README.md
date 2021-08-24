@@ -1,7 +1,7 @@
 # Demo1
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1.
-web app url = https://6125033c1b4a3632fdec2fc6--gifted-carson-778859.netlify.app/login
+web app url = https://6125042b92f2b04a54430f97--gifted-carson-778859.netlify.app/login
 
 ## Development server
 
